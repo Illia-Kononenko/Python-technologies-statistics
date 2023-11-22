@@ -20,7 +20,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 scrapy crawl djinni -O job_listings.csv
 ```
-
+You can also edit the config.py file before scraping if you want to add or exclude any technologies from the analysis.
 
 
 ## Read statistics
