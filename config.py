@@ -1,0 +1,1 @@
+TECHNOLOGIES = ["Python", "GIT", "SQL", "REST", "API", "docker", "AWS", "linux", "Django", "PostgreSQL", "Artificial Intelligence", "JS", "Machine Learning", "react", "OOP", "Flask", "NoSQL", "networking", "fullstack", "microservice", "MongoDB", "HTML", "CSS", "algorithms", "DRF", "FastAPI", "asyncio", "Graphql"]
